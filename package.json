@@ -1,0 +1,18 @@
+{
+  "name": "@wcd/premo08.preact-l7m6v5mb-fork-l7m6vz5g",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "dependencies": {
+    "preact-custom-element": "^4",
+    "htm": "^3"
+  },
+  "devDependencies": {
+    "lit-html": "^2"
+  },
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve d0D0e482M4jwtOSCuSeZ --open"
+  }
+}
